@@ -1,0 +1,52 @@
+{
+    "enable": true, 
+    "version": 5, 
+    "account": {
+        "cookie": "UM_distinctid=181b4f72de8390-08eb59c3335211-26021a51-1fa400-181b4f72de9317; _ga=GA1.2.1982384191.1656598508; _gid=GA1.2.167188299.1656598508; _MHYUUID=608696ea-d64e-4e3c-9690-8905c906d0f6; ltoken=vkEhVQx1s5F8CN04cJBnEWcaCD0OAaXIUdr2mD9f; ltuid=170625654; cookie_token=bmxiwKtQsNWX9wzYOhj6b1B3uF5JkC7UsJV9gx1R; account_id=170625654; DEVICEFP_SEED_ID=dd59217da2ce8351; DEVICEFP_SEED_TIME=1656598591508; CNZZDATA1274689524=1934566062-1656596257-%7C1656596257; DEVICEFP=38d7ea9b3ed4e; login_uid=170625654; login_ticket=zQoLMu8qNO1UUEZUTPiXRWbTxSSedlhZVAQ2ZSgl", 
+        "login_ticket": "zQoLMu8qNO1UUEZUTPiXRWbTxSSedlhZVAQ2ZSgl", 
+        "stuid": "170625654", 
+        "stoken": "w6GZ4NOAMyUoNz33RDfczoZOYRGrobWBOaUeH56Q"
+    }, 
+    "mihoyobbs": {
+        "enable": true, 
+        "checkin": true, 
+        "checkin_multi": true, 
+        "checkin_multi_list": [
+            2, 
+            5
+        ], 
+        "read_posts": true, 
+        "like_posts": true, 
+        "un_like": true, 
+        "share_post": true
+    }, 
+    "games": {
+        "cn": {
+            "enable": true, 
+            "hokai2": {
+                "auto_checkin": false, 
+                "black_list": []
+            }, 
+            "honkai3rd": {
+                "auto_checkin": false, 
+                "black_list": []
+            }, 
+            "tears_of_themis": {
+                "auto_checkin": false, 
+                "black_list": []
+            }, 
+            "genshin": {
+                "auto_checkin": false, 
+                "black_list": []
+            }
+        }, 
+        "os": {
+            "enable": false, 
+            "cookie": "", 
+            "genshin": {
+                "auto_checkin": false, 
+                "black_list": []
+            }
+        }
+    }
+}
